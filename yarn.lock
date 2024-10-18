@@ -99,7 +99,7 @@ __metadata:
     "@nestjs/testing": "npm:^10.3.8"
     "@types/crypto-js": "npm:^4"
     "@types/express": "npm:^4.17.21"
-    "@types/lodash": "npm:^4.17.4"
+    "@types/lodash": "npm:^4.17.11"
     "@types/node": "npm:^20.12.12"
     "@typescript-eslint/eslint-plugin": "npm:^7.9.0"
     "@typescript-eslint/parser": "npm:^7.9.0"
@@ -1023,10 +1023,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash@npm:^4.17.4":
-  version: 4.17.4
-  resolution: "@types/lodash@npm:4.17.4"
-  checksum: 10/3ec19f9fc48200006e71733e08bcb1478b0398673657fcfb21a8643d41a80bcce09a01000077c3b23a3c6d86b9b314abe0672a8fdfc0fd66b893bd41955cfab8
+"@types/lodash@npm:^4.17.11":
+  version: 4.17.11
+  resolution: "@types/lodash@npm:4.17.11"
+  checksum: 10/5d60393dfc09c9dae10c426e8e9fdd705b8cdd335e54848d9f16da2e2727a73c82601fbcd7fabbb8ec1e866c49240929995934bf52e04c76b434303029503bc6
   languageName: node
   linkType: hard
 
